@@ -149,13 +149,12 @@ form .btn {
 }
 .discuss_string .text {
   color: #fff;
-  line-height: 4
+  line-height: 4;
+  display: inline
 }
 .discuss_string .btn {
-  margin-top: -79px;
-  margin-left: auto;
-  margin-right: 463px;
-  display: block;
+  display: inline;
+  margin-left: 35px;
   text-transform: uppercase;
   background-color: #fff;
   color: #38599c
