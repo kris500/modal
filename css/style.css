@@ -145,7 +145,8 @@ form .btn {
   bottom: 0;
   width: 100%;
   height: 70px;
-  background: #4f82a7
+  background: #4f82a7;
+  text-align: center
 }
 .discuss_string .text {
   color: #fff;
